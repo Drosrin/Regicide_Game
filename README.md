@@ -1,4 +1,4 @@
-# Regecide Game ß±¾ıÕß
+# Regecide Game å¼‘å›è€…
 ```
 Idea from regecide board game.
 ```
