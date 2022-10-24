@@ -1,4 +1,5 @@
 #include <string>
+#include "player.h"
 
 class Enemy;
 class Slime;
