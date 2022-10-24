@@ -1,7 +1,6 @@
 # Regecide Game 弑君者
-```
-Idea from regecide board game.
-```
+
+> Idea from regecide board game.
 
 ## Regecide: A card-play roguelike game.
 
